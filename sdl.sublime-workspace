@@ -1,0 +1,532 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Sh",
+				"ShouldQuit"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"printf",
+				"printf\tprintf …"
+			],
+			[
+				"ini",
+				"inicio"
+			],
+			[
+				"i",
+				"inicio"
+			],
+			[
+				"ter",
+				"termino"
+			],
+			[
+				"inci",
+				"indice"
+			],
+			[
+				"palavras",
+				"palavras_separadas"
+			],
+			[
+				"palav",
+				"palavras_separadas"
+			],
+			[
+				"pala",
+				"palavras_separadas"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"dis",
+				"distancia"
+			],
+			[
+				"pri",
+				"primary_key"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sdl_handmade.cpp",
+			"settings":
+			{
+				"buffer_size": 28984,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "color",
+		"selected_items":
+		[
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Select Color Scheme"
+			],
+			[
+				"the",
+				"Select Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"select",
+				"Select Theme"
+			],
+			[
+				"sele",
+				"Select Theme"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"select ",
+				"Select Theme"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/joao/Desktop/build.sh",
+		"/home/joao/Documents/handmadelinux/linux_day_005/build.sh",
+		"/home/joao/.cache/.fr-ui9n7T/linux_day_011/build-queueaudio.sh",
+		"/home/joao/Documents/handmadelinux/linux_day_005/handmade.cpp",
+		"/home/joao/.cache/.fr-jVwEwP/linux_day_018/sdl_handmade.cpp",
+		"/home/joao/Documents/handmadelinux/linux_day_005/sdl_handmade.h",
+		"/home/joao/.cache/.fr-odrGB7/linux_day_011/sdl_handmade_queueaudio.cpp",
+		"/home/joao/Documents/handmadelinux/PENGUIN/handmade.cpp",
+		"/home/joao/Documents/TCC/goodshit.json",
+		"/home/joao/.cache/.fr-1XvOd5/linux_day_010/sdl_handmade_queueaudio.cpp",
+		"/home/joao/.cache/.fr-N5ypfu/linux_day_009/sdl_handmade_queueaudio.cpp",
+		"/home/joao/.cache/.fr-okpyql/linux_day_008/sdl_handmade.cpp",
+		"/home/joao/.cache/.fr-UJnXcy/linux_day_008/sdl_handmade_queueaudio.cpp",
+		"/home/joao/.cache/.fr-fPXF7i/linux_day_006/sdl_handmade.cpp",
+		"/home/joao/Documents/handmadelinux/linux_day_005/untitled folder/build.sh",
+		"/home/joao/Documents/handmadelinux/linux_day_005/sdl_handmade.cpp",
+		"/home/joao/Documents/handmadelinux/linux_day_016/build.sh",
+		"/home/joao/Documents/handmadelinux/PENGUIN/build.sh",
+		"/home/joao/Desktop/decide ai",
+		"/home/joao/Documents/handmadelinux/PENGUIN/sdl_handmade.cpp",
+		"/home/joao/Documents/handmadelinux/PENGUIN/sdl_handmade.h",
+		"/home/joao/.cache/.fr-NHpXlH/linux_day_002/sdl_handmade.cpp",
+		"/home/joao/Documents/cpp/escolha.c",
+		"/home/joao/loiane/cursoangular/projtest/nodejs.txt",
+		"/home/joao/Documents/Haxe/Unsolicited/Project.xml",
+		"/home/joao/Documents/haxel/flixel-demos-dev/Arcade/Breakout/source/Main.hx",
+		"/home/joao/.config/sublime-text-3/Packages/User/adaptative.sublime-theme",
+		"/home/joao/.config/sublime-text-3/Packages/User/achievement.sublime-settings",
+		"/media/joao/JOAO/web-gnu/node-v8.6.0-linux-x64/lib/node_modules/npm/README.md",
+		"/media/joao/JOAO/web-gnu/node-v8.6.0-linux-x64/lib/node_modules/npm/TROUBLESHOOTING.md",
+		"/home/joao/Documents/WEB/database_setup.py",
+		"/home/joao/Documents/fatec/LAB GNU C/exe1.c",
+		"/home/joao/Documents/fatec/LAB GNU C/string-matrix/main.c",
+		"/home/joao/Downloads/burlesco/manifest.json",
+		"/home/joao/Documents/fatec/LAB GNU C/exe1",
+		"/home/joao/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/joao/.config/sublime-text-3/Packages/User/Adaptive.sublime-theme",
+		"/home/joao/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/joao/.config/sublime-text-3/Packages/User/Adaptative.sublime-theme",
+		"/home/joao/.config/sublime-text-3/Packages/User/Package Control.last-run",
+		"/home/joao/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/joao/.config/sublime-text-3/Packages/User/Theme-Switcher.cache/Main.sublime-menu",
+		"/home/joao/.config/sublime-text-3/Packages/User/Package Control.user-ca-bundle",
+		"/home/joao/github/cursoAngular2/my-app/src/app/meu-primeiro/meu-primeiro.component.ts",
+		"/home/joao/github/cursoAngular2/my-app/e2e/tsconfig.e2e.json",
+		"/home/joao/github/cursoAngular2/my-app/src/app/app.component.html",
+		"/home/joao/github/cursoAngular2/my-app/src/app/app.module.ts",
+		"/media/joao/JOAO/Fatec/2. Semestre/LP1/Aula3/exe1.c",
+		"/home/joao/github/cursoAngular2/my-app/src/app/meu-primeiro2/meu-primeiro2.component.ts",
+		"/home/joao/.cache/.fr-fW7NlI/package.json",
+		"/home/joao/.cache/.fr-SDDDxQ/package-metadata.json",
+		"/home/joao/.config/sublime-text-3/Packages/User/unlocked.sublime-settings",
+		"/home/joao/p1/package.json",
+		"/home/joao/p1/index.html",
+		"/home/joao/p1/style.css",
+		"/home/joao/p1/index.js",
+		"/home/joao/electron/mongotron/bower.json",
+		"/media/joao/USB STICK/Fatec/2. Semestre/LP1/Aula3/tradutor.c",
+		"/media/joao/USB STICK/Fatec/2. Semestre/LP1/Aula3/lista/exercicio1.c",
+		"/media/joao/USB STICK/newSublime/Data/KEEPME",
+		"/home/joao/.PlayOnLinux/install",
+		"/media/joao/USB STICK/Fatec/2. Semestre/Engenharia de Software/projeto/code/model/Cliente.java",
+		"/home/joao/.wine/winetricks.log",
+		"/media/joao/USB STICK/a/pen/exercicio5.c",
+		"/media/joao/JOAOANTONIO/exercicio3.c",
+		"/home/joao/Documents/WEB/database_setup.pyc"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"should",
+			"have",
+			"acho",
+			"debug",
+			"debuf",
+			"FreeSans"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"San Francisco Text Regular"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sdl_handmade.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28447,
+								28447
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										28449,
+										28450
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										28442,
+										28443
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9458.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 363.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 145.0
+	},
+	"pinned_build_system": "",
+	"project": "sdl.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/fatec/sem2/l3/exercicio3.c"
+			],
+			[
+				"sor",
+				"~/Documents/fatec/sem2/l3/sort.c"
+			],
+			[
+				"exer",
+				"~/Documents/fatec/sem2/l3/exercicio1.c"
+			],
+			[
+				"sort",
+				"~/Documents/fatec/sem2/l3/sort.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
